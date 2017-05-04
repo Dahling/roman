@@ -1,0 +1,10 @@
+form {
+  padding: 15px;
+  border: 5px solid #F905B6;
+  background-color: #F7B4E5;
+}
+
+
+#result {
+  display: none;
+}
